@@ -1,5 +1,6 @@
 // 운동복 구입 문제
 // 웹에 오픈된 사례가 없네요
+// https://ssyeo.notion.site/GitHub-9da0d7e4ee0d4060b9bf3cf138b3518e
 
 function sports_wear(color, prices) {
     var colorUp = [];
