@@ -6,3 +6,9 @@ JavaScript Team Project 1-1
 
 ##### 이제한 팀장 프로젝트 머지 완료
 
+=======
+### team1-1
+JavaScript Team Project 1-1
+
+##### 김수철 팀장 프로젝트
+
