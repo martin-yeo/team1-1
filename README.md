@@ -6,9 +6,7 @@ JavaScript Team Project 1-1
 
 ##### 이제한 팀장 프로젝트 머지 완료
 
-=======
-### team1-1
-JavaScript Team Project 1-1
+##### 김수철 팀장 프로젝트 머지 완료
 
-##### 김수철 팀장 프로젝트
-
+##### 여상수 센터장 일부 수정 사항 발견
+* index.html 내에 중복된 항목 존재 --> 처리
