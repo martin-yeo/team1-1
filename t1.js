@@ -70,4 +70,3 @@ var actions_2 = ["LOGIN lee abc", "LOGIN kim password"];
 // [true, false]
 console.log(login_2, actions_2);
 console.log(store_process(login_2, actions_2));
-console.log(store_process(login_2, actions_2));

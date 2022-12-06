@@ -18,7 +18,7 @@ function solution(number, k) {
     // pop 하면서 k값을 줄여준다.
     stack.push(number[i]);
   }
-  return stack.join("");
+  return Number(stack.join(""));
 }
 
 console.log("\n\n===큰 수 만들기===");
